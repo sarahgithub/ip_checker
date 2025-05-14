@@ -2,7 +2,7 @@
   "name": "ip_checker",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/sarahgithub/ip_checker",
+  "homepage": "https://sarahgithub.github.io/ip_checker/",
 
   "dependencies": {
     "@react-google-maps/api": "^2.20.6",

@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/sarahgithub/ip_checker/static/css/main.e6c13ad2.css",
-    "main.js": "/sarahgithub/ip_checker/static/js/main.8065fc78.js",
-    "static/js/453.a0b061ad.chunk.js": "/sarahgithub/ip_checker/static/js/453.a0b061ad.chunk.js",
-    "index.html": "/sarahgithub/ip_checker/index.html",
-    "main.e6c13ad2.css.map": "/sarahgithub/ip_checker/static/css/main.e6c13ad2.css.map",
-    "main.8065fc78.js.map": "/sarahgithub/ip_checker/static/js/main.8065fc78.js.map",
-    "453.a0b061ad.chunk.js.map": "/sarahgithub/ip_checker/static/js/453.a0b061ad.chunk.js.map"
+    "main.css": "/ip_checker/static/css/main.e6c13ad2.css",
+    "main.js": "/ip_checker/static/js/main.eff74506.js",
+    "static/js/453.a0b061ad.chunk.js": "/ip_checker/static/js/453.a0b061ad.chunk.js",
+    "index.html": "/ip_checker/index.html",
+    "main.e6c13ad2.css.map": "/ip_checker/static/css/main.e6c13ad2.css.map",
+    "main.eff74506.js.map": "/ip_checker/static/js/main.eff74506.js.map",
+    "453.a0b061ad.chunk.js.map": "/ip_checker/static/js/453.a0b061ad.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.8065fc78.js"
+    "static/js/main.eff74506.js"
   ]
 }
